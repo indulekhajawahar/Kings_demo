@@ -1,0 +1,39 @@
+{
+    "status":100,
+    "message":"success",
+    "validation_errors":[
+
+    ],
+    "data":{
+    "lists":[
+    {
+        "id":21,
+        "title":"Test Message 1",
+        "type":"Text",
+        "content":"This is notification",
+        "read_unread_status":1
+    },
+    {
+        "id":20,
+        "title":"Test Message 2",
+        "type":"Image",
+        "content":"https://media.istockphoto.com/photos/contact-us-concept-with-wood-block-and-symbols-picture-id1170264057?s=612x612",
+        "read_unread_status":1
+    },
+    {
+        "id":19,
+        "title":"Test Message 3",
+        "type":"Video",
+        "content":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+        "read_unread_status":1
+    },
+    {
+        "id":25,
+        "title":"Test Message 4",
+        "type":"Audio",
+        "content":"http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3",
+        "read_unread_status":1
+    }
+    ]
+}
+}

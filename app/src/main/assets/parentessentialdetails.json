@@ -1,0 +1,30 @@
+
+{
+    "status": 100,
+    "message": "success",
+    "validation_errors": [],
+    "data": {
+    "lists": [
+    {
+        "id": 328,
+        "title": "Calendar 2018/2019",
+        "url": "https://nais-core.s3.ap-south-1.amazonaws.com/department_web_url/2021/04/29/department_web_url_kkk_1619680282.pdf"
+    },
+    {
+        "id": 121,
+        "title": "Calendar 2017/2018",
+        "url": "https://nais-core.s3.ap-south-1.amazonaws.com/5bab5701cf199Parent%20Handbook%20%2804%29.pdf"
+    },
+    {
+        "id": 618,
+        "title": "jeenu test 1",
+        "url": "https://youtu.be/VeAK7Bv4F1o"
+    },
+    {
+        "id": 619,
+        "title": "jeenu test 2 for file",
+        "url": "https://nais-core.s3.ap-south-1.amazonaws.com/department_web_urls/2021/06/18/department_web_urls_dummy_1624002778.pdf"
+    }
+    ]
+}
+}

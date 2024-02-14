@@ -1,0 +1,36 @@
+
+    {
+        "status":100,
+        "message":"success",
+        "validation_errors":[
+
+        ],
+        "data":{
+        "lists":[
+        {
+            "id":21,
+            "title":"Test Message 1",
+            "alert_type":"Text",
+            "read_unread_status":1
+        },
+        {
+            "id":20,
+            "title":"Test Message 2",
+            "alert_type":"Image",
+            "read_unread_status":1
+        },
+        {
+            "id":19,
+            "title":"Test Message 3",
+            "alert_type":"Video",
+            "read_unread_status":1
+        },
+        {
+            "id":25,
+            "title":"Test Message 4",
+            "alert_type":"Audio",
+            "read_unread_status":1
+        }
+        ]
+    }
+    }

@@ -1,0 +1,10 @@
+{
+    "status": 100,
+    "message": "success",
+    "validation_errors": [],
+    "data": {
+    "banner_image": "https://media.istockphoto.com/photos/contact-us-concept-with-wood-block-and-symbols-picture-id1170264057?s=612x612",
+    "description": "Failed to find GeneratedAppGlideModule. You should include an annotationProcessor compile dependency on com.github.bumptech.glide:compiler in your application ",
+    "contact_email": ""
+}
+}

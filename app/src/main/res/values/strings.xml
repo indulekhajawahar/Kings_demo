@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kings_demo</string>
+    <string name="notification_title">Notifications</string>
+    <string name="notificationdetails_title">Notification Details</string>
+    <string name="parentessential_title">Parent Essentials</string>
+    <string name="parentessentialdetails_title">Parent Essentials Details</string>
+    <string-array name="parentsessential_list">
+    <item>  First</item>
+    <item>  Second</item>
+    <item>  Third</item>
+    <item>  Fourth</item>
+    </string-array>
+</resources>
